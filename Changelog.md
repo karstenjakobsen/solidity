@@ -1,6 +1,7 @@
 ### 0.4.19 (unreleased)
 
 Features:
+  * Standard JSON: Support the ``outputSelection`` field for selective compilation of target artifacts.
 
 Bugfixes:
 
