@@ -1,6 +1,7 @@
 ### 0.4.19 (unreleased)
 
 Features:
+ * Type Checker: More detailed errors for invalid array lengths (such as division by zero).
 
 Bugfixes:
 
